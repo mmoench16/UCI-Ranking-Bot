@@ -1,0 +1,22 @@
+{
+  "name": "uci-ranking-bot",
+  "version": "1.0.0",
+  "description": "A bot that posts UCI Top 10 data on Twitter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmoench16/UCI-Ranking-Bot.git"
+  },
+  "author": "Martin Moench",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmoench16/UCI-Ranking-Bot/issues"
+  },
+  "homepage": "https://github.com/mmoench16/UCI-Ranking-Bot#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
